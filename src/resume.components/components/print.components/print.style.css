@@ -1,0 +1,26 @@
+.downloadClass{
+  padding: 0.5em 1.3em;
+  background-color: rgb(36, 36, 63);
+  color: white;
+  border-radius: 5em; 
+  font-size: 0.9rem;
+  margin-top: 10em;
+}
+
+.downloadClass:hover {
+  cursor: pointer;
+  color: white !important;
+}
+
+/* class to style PDF page  */
+@media print {
+  @page {
+    size: A4 landscape;
+    margin: 16mm;
+  }
+  .printSource {
+    padding-right: 2em;
+    padding-left: 2em;
+  }
+}  
+

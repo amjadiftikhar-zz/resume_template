@@ -1,0 +1,31 @@
+.profileImageSection {
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.profilePicture {
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+    border: 1px solid lightgray;
+    align-self: center;
+}
+.contactDetails {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.2em;
+    padding: 1em;
+}
+.contactDetails span {
+    line-height: 2em;
+    font-size: 0.9rem;
+    word-break: break-all;
+}
+.contactDetails span a {
+    color: black;
+}
+.contactIcons {
+    margin-right: 0.3em;
+    font-size: 1rem;
+}

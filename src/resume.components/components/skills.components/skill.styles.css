@@ -1,0 +1,27 @@
+.cvSkillSection {
+    display: flex;
+    flex-direction: column;
+}
+.cvSkillsTitle {
+    border-bottom: 1.5px solid black;
+    color: rgb(36, 36, 63);
+    font-weight: 600;
+    font-size: 1.7rem;
+}
+.cvSkillsContainer {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-top: 0.5em;
+}
+.cvSkillCard {
+    background-color: rgb(36, 36, 63);
+    color: white;
+    text-align: center;
+    padding: 0.6em 0.5em;
+    width: 7em;
+    font-size: 0.8rem;
+    border-radius: 0.4em;
+    margin-bottom: 0.6em;
+    margin-right: 0.6em;
+}

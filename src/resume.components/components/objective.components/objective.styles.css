@@ -1,0 +1,20 @@
+.objectiveSection {
+    padding: 0.5em 1em 0.5em 1em;
+    background-color: rgb(36, 36, 63);
+    color: white;
+}
+.cvTitle {
+    font-weight: 400;
+    line-height: 2.5rem;
+}
+.cvJobTitle {
+    border-bottom: 2px solid white;
+    width: 15em;
+    padding-bottom: 0.3em;
+    font-size: 1.2rem;
+    font-weight: 200 !important;
+}
+.objectiveText {
+    padding-top: 0.4em;
+    font-size: 0.9rem;
+}

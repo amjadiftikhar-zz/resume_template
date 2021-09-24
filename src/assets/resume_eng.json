@@ -1,0 +1,125 @@
+{
+    "sectionTitles": [
+        "Work Experience", "Volunteer Experience", "Projects", "Education", "Skills", "Certificates", 
+        "Languages", "References"
+    ],
+    "objective": [
+        {
+            "name": "Your Name",
+            "jobTitle": "Frontend Developer",
+            "objective": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+        }
+    ],
+    "experience": [
+        { 
+            "jobTitle": "Frontend Developer",
+            "companyName": "XYZ",
+            "duration": "01/2021 - Present",
+            "task": "Tasks:",
+            "companyLocation": "Denmark",
+            "taskDetails": [
+                " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
+            ]
+        },
+        {
+            "jobTitle": "Frontend Developer",
+            "companyName": "XYZ",
+            "duration": "11/2020 - 01/2021",
+            "task": "Tasks:",
+            "companyLocation": "Denmark",
+            "taskDetails": [
+                " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
+            ]
+        },
+        {
+            "jobTitle":"Student Volunteer",
+            "companyName": "Hack Your Future-Copenhagen",
+            "duration": "08/2019 - Present",
+            "task": "Tasks:",
+            "companyLocation": "Copenhagen, Denmark",
+            "taskDetails": [
+                " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            ]
+        }
+    ],
+    "volunteerExperience": [
+        { 
+            "jobTitle":"Frontend Developer",
+            "companyName": "XYZ",
+            "duration": "11/2020 - 02/2021",
+            "task": "Tasks:",
+            "companyLocation": "Copenhagen, Denmark",
+            "taskDetails": [
+                " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "duration": "Project Name (10/2020 - 10/2020)",
+            "description": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+            "duration": "Project Name (02/2020 - 04/2020)",
+            "description": " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+        },
+        {
+            "duration": "Project Name (02/2020 - 02/2020)",
+            "description": " It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+        }, 
+        {
+            "duration": "Project Name (11/2019 - 11/2019)",
+            "description": " It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged"
+        }    
+    ],
+    "education": [
+        { 
+            "jobTitle":"Full Stack Developer Program",
+            "companyName": "Hack Your Future-Copenhagen",
+            "duration": "08/2019 - 04/2020",
+            "task": "Courses:",
+            "companyLocation": "Copenhagen, Denmark",
+            "taskDetails": [
+                "Javascript, React, Nodejs, HTML, CSS, mySql"
+            ]
+        },
+        {
+            "jobTitle":"Masters in Computer Systems Engineering",
+            "companyName": "XYZ",
+            "duration": "01/2008 - 03/2010",
+            "task": "Courses:",
+            "companyLocation": "XYZ",
+            "taskDetails": [
+                "Advanced Routing, Multilayer Switching"
+            ]
+        }
+    ],
+    "skills": [
+        "Javascript", "Typescript", "React", "Nodejs", "HTML", "CSS", 
+        "MySql", "Knex", "jQuery", "NPM", "Express", "Storybook", "Firebase", "Swagger",
+        "TDD", "Prettier", "Git", "Github", "Heroku"
+    ],
+    "certificates": [
+        {
+            "duration": "Microsoft Certified Professional",
+            "description": "MCSE, MCSA, MCP and MCTS (windows 2007)"
+        }  
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "level": "Full Professional Proficiency"
+        },
+        {
+            "language": "Danish",
+            "level": "Professional Working Proficiency"
+        }       
+    ],
+    "references": [
+        {
+            "reference": "ABC",
+            "email": "test@test.dk "
+        }      
+    ]
+    
+}

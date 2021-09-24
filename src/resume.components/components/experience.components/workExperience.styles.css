@@ -1,0 +1,57 @@
+.experienceMainCard {
+    padding-left: 1em;
+    margin-top: 0.8em;
+}
+
+.experienceTitle {
+    margin-top: 0.8em;
+    border-bottom: 1.5px solid black;
+    padding-left: 0.5em;
+    font-weight: 600;
+    font-size: 1.6rem;
+    color: rgb(36, 36, 63);
+}
+
+.cvExJobTitle {
+    font-weight: 600;
+    font-size: 1rem !important;
+    margin-bottom: 0.9em;
+    color: rgb(36, 36, 63);
+}
+
+.companyNameTitle {    
+    line-height: 0.2em;
+    font-weight: 400;
+    padding-bottom: 0.3em;
+    font-size: 1.2rem;
+}
+
+.jobDetailSection {
+    display: flex;
+    flex-direction: column;
+}
+
+.jobDetails {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.timePeriod {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.7em;
+    font-size: 0.8rem;
+    color: rgb(68, 68, 95);
+
+}
+.details {
+    font-size: 0.8rem;
+    color: rgb(68, 68, 95);
+    font-style: italic;
+}
+.taskDescription {
+    margin: 0em 0 0 1em;
+    list-style-type: square;
+    font-size: 0.9rem;
+}

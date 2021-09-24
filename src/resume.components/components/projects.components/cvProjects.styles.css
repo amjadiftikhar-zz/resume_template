@@ -1,0 +1,26 @@
+.cvProjectSection {
+    margin-top: 1em;
+}
+.cvProjectTitle {
+    border-bottom: 1.5px solid black;
+    color: rgb(36, 36, 63);
+    padding-left: 0.5em;
+    font-weight: 600;
+    font-size: 1.6rem;
+}
+.cvProjectCard {
+    margin-left: 1em;
+    display: flex;
+    flex-direction: column;
+}
+.cvProjectsName {
+    font-weight: 400;
+    font-size: 1.1rem;
+    margin-bottom: 0.2em;
+}
+.cvProjectDescription {
+    font-size: 0.9rem;
+    list-style-type: square;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
