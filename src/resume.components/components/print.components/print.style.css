@@ -4,7 +4,7 @@
   color: white;
   border-radius: 5em; 
   font-size: 0.9rem;
-  margin-top: 10em;
+  /* margin-top: 10em; */
 }
 
 .downloadClass:hover {
@@ -16,7 +16,7 @@
 @media print {
   @page {
     size: A4 landscape;
-    margin: 16mm;
+    margin: 15mm 10mm 15mm 10mm;
   }
   .printSource {
     padding-right: 2em;

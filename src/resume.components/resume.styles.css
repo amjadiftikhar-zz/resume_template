@@ -2,7 +2,8 @@
     display: flex;
 }
 .leftSection {
-    width: 16em;
+    /* width: 16em; */
+    width: 15.8em;
     margin-right: 1em;
 }
 .rightSection {
